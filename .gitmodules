@@ -1,0 +1,3 @@
+[submodule "Keras_Application_Zoo"]
+	path = Keras_Application_Zoo
+	url = https://github.com/GKalliatakis/Keras-Application-Zoo.git
